@@ -1,3 +1,3 @@
 # https://github.com/lhalloran/enseignement_extras/
 
-Fichiers divers pour des cours enseigné à l'UniNE.
+Fichiers divers pour certains cours que j'enseigne à l'UniNE.

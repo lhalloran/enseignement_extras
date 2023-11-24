@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-SMC_Day7.py
+SMC_Day5.py
 Landon Halloran @ Uni Neuchatel
 ljsh.ca
 
-Part of the 28.11.2022 lecture in the course:
+Part of the "figures" lecture in the course:
 Scientific Method and Communication 
 (part of the MSc in Hydrogeology and Geothermics programme)
 """
